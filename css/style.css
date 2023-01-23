@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+span {
+    margin: 0px;
+    border: 50px dotted red;
+    /* height: 150px; */
+    width: 50px;
+    /* block-size: 0px; */
+    padding: 200 px;
+    inline-size: 5000px;
+    
+    display: block;
+}
+
+p {
+    border: 5px double aqua;
+    height: 150px;
+    width: 300px;
+}
